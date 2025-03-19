@@ -196,3 +196,57 @@ body {
     color: var(--cor-paragrafo);
     margin-bottom: 0.2em;
 }
+
+@media (max-width: 768px) {
+    .principal {
+        grid-template-columns: 1fr;
+        text-align: center;
+        height: auto;
+        padding: 2em;
+        background-image: none;
+    }
+
+    .principal__caixa {
+        margin: 0;
+        padding: 1em;
+    }
+
+    .principal__caixa__imagem {
+        width: 100%;
+        max-width: 300px;
+    }
+
+    .principal__caixa__botao-combo,
+    .principal__caixa__botao-alura {
+        width: 100%;
+        padding: 12px;
+    }
+
+    .secundario {
+        grid-template-columns: 1fr;
+        text-align: center;
+        margin: 0;
+        padding: 2em;
+        height: auto;
+    }
+
+    .secundario img {
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+    }
+
+    .secundario__mensagem {
+        padding: 1em;
+    }
+
+    .dispositivos__lista {
+        flex-direction: column;
+        gap: 1em;
+    }
+
+    .rodape__lista {
+        flex-direction: column;
+        gap: 0.5em;
+    }
+}
