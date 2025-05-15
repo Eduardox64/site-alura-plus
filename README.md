@@ -1,5 +1,12 @@
 # 💻 Alura Plus — Projeto de HTML e CSS
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Responsivo](https://img.shields.io/badge/Responsivo-Mobile--First-blue?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Deploy-Vercel-000?style=for-the-badge&logo=vercel)
+
+---
+
 Este repositório contém o projeto **Alura Plus**, desenvolvido durante o curso de **HTML e CSS** da [Alura](https://www.alura.com.br/). O objetivo foi criar uma landing page para divulgação de planos de assinatura da plataforma, praticando fundamentos essenciais de desenvolvimento web e técnicas de **responsividade**.
 
 ## 🔗 Deploy
@@ -9,16 +16,9 @@ Você pode visualizar o projeto online clicando no link abaixo:
 
 ## 🎥 Preview do Projeto
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Eduardox64/site-alura-plus/main/assets/preview.gif" alt="Demonstração do site Alura Plus" width="720">
+<p>
+<img src="https://github.com/Eduardox64/site-alura-plus/raw/main/assets/preview.gif" alt="Demonstração do site Alura Plus" width="720">
 </p>
-
-## 🚀 Tecnologias utilizadas
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Responsivo](https://img.shields.io/badge/Responsivo-Mobile--First-blue?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Deploy-Vercel-000?style=for-the-badge&logo=vercel)
 
 ## 📚 Conteúdo abordado
 
